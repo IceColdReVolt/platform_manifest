@@ -1,6 +1,6 @@
-Build ReVolt ROM
+Build ReVolt ROM for OneX
 ----------------
 
 1) Sync ReVolt ROM Sources
-$ repo init -u https://github.com/ReVolt-ROM/platform_manifest.git -b jb-mr1
+$ repo init -u https://github.com/IceColdReVolt/platform_manifest.git -b jb-mr1
 $ repo sync
