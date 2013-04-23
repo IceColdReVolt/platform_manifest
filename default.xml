@@ -27,7 +27,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="IceColdJelly42/android_build" remote="github" revision="jb-mr1" >
+  <project path="build" name="android_build" remote="revolt" revision="jb-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
